@@ -2,4 +2,4 @@
 
 ## [View Code](Lottery.swift)
 
-Simple swifty lottery code used in [Let'Swift 18](https://letswift.kr) Lottery Session.
+Simple swifty lottery code used in [Let'Swift 18](https://letswift.kr/2018/) Lottery Session.
